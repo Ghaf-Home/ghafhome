@@ -12,6 +12,11 @@ jobs:
   deploy:
     runs-on: ubuntu-20.04
     steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm i
       - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
