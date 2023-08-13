@@ -16,12 +16,9 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run: npm i
-      - uses: actions/checkout@v2
-        with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
+      - run: npm i
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
