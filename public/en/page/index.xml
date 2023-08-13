@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Ghaf Home | Dubai Real Estate</title>
+    <link>https://blist.vercel.app/en/page/</link>
+    <description>Recent content in Pages on Ghaf Home | Dubai Real Estate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://blist.vercel.app/en/page/about/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/page/about/</guid>
+      <description>We are Gafe Home and we are in the business of helping people like you find amazing homes to buy in the UAE.</description>
+    </item>
+    
+  </channel>
+</rss>
